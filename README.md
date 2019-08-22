@@ -13,3 +13,5 @@ I created Tic-Tac-Toe when I senior taught iOS App Development in high school. I
 ## [Deerfield Food Pantry](https://github.com/Lontronix/Deerfield-Food-Pantry)
 
 Deerfield Food pantry is an app that I helped with when I was a member of the coding for a cause club at my high school. I made the *Food Pantry* & *About* screens.
+
+![about screen](https://github.com/Lontronix/iOS-Projects/blob/master/assets/Food%20Pantry/About%20Screen.png?raw=true | height = 50)
